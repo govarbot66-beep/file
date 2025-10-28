@@ -20,7 +20,7 @@ API_HASH = "d6ddeafb0c189d91b8197ad49103e806"
 WORKERS = 5
 
 DB_URI = "mongodb+srv://teddugovardhan544_db_user:WVjIA96jQ31net0j@cluster0.kwkkleo.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
-DB_NAME = "filestore-multi-data-base"
+DB_NAME = "filestoremultidatabase"
 
 FSUBS = [[-1002522308350, True, 10]] 
 
