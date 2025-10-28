@@ -14,17 +14,17 @@ SHORT_TUT = "https://t.me/Anime_Telugu_English_VS/4156"
 
 # Bot Configuration
 SESSION = "yato"
-TOKEN = "8488958888:AAFc4T47h_87TOcgIkWHUdghAzXVIAOdJ7k"
-API_ID = "22648485"
-API_HASH = "8a714c643f86acb3d07a2baa4831f95b"
+TOKEN = "7640828023:AAE21zys6yCzJ2U-fce-76PYQT_ua3GEDxk"
+API_ID = "28408609"
+API_HASH = "d6ddeafb0c189d91b8197ad49103e806"
 WORKERS = 5
 
 DB_URI = "mongodb+srv://teddugovardhan544_db_user:WVjIA96jQ31net0j@cluster0.kwkkleo.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 DB_NAME = "filestoremultidatabase"
 
-FSUBS = [[-1002201374172, True, 10]] 
+FSUBS = [[-1002522308350, True, 10]] 
 
-DB_CHANNEL = -1002201374172  # just put channel id dont add ""
+DB_CHANNEL = -1002599753693  # just put channel id dont add ""
 # Multiple Database Channels (can be set via bot settings)
 # DB_CHANNELS = {
 #     "-1002761663485": {"Data base 3": "Primary DB", "is_primary": True, "is_active": True},
